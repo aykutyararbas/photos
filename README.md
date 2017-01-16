@@ -1,7 +1,7 @@
-# a2boot
+# Photos
 Angular2 - Bootstrap 4, jQuery, Firebase - App Skeleton with login
 
-git p# Boot
+git p# photos
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
